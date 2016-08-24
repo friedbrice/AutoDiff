@@ -39,16 +39,16 @@ Special thanks to Phil Freeman, for noticing that the symbolic differentiation w
 
 ## Further Reading
 
-- Justin Domke: [Automatic Differentiation: The most criminally underused tool in the potential machine learning toolbox?][https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/]
+- Justin Domke: [Automatic Differentiation: The most criminally underused tool in the potential machine learning toolbox?](https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/)
 
-- Edward Kmett: [The ad package][https://hackage.haskell.org/package/ad]
+- Edward Kmett: [The ad package](https://hackage.haskell.org/package/ad)
 
-- Ben Kovach: [Symbolic Calculus in Haskell][http://5outh.blogspot.com/2013/05/symbolic-calculus-in-haskell.html]
+- Ben Kovach: [Symbolic Calculus in Haskell](http://5outh.blogspot.com/2013/05/symbolic-calculus-in-haskell.html)
 
-- Alexey Radul: [Introduction to AUTOMATIC DIFFERENTIATION][http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/]
+- Alexey Radul: [Introduction to AUTOMATIC DIFFERENTIATION](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/)
 
-- Chris Taylor: [The Algebra of Algebraic Data Types, Part 3][http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/]
+- Chris Taylor: [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 
-- DB: [Automatic Differentiation is Trivial in Haskell][http://www.danielbrice.net/blog/10/]
+- DB: [Automatic Differentiation is Trivial in Haskell](http://www.danielbrice.net/blog/10/)
 
-- DB: [AutoDiff][https://github.com/friedbrice/AutoDiff]
+- DB: [AutoDiff](https://github.com/friedbrice/AutoDiff)
