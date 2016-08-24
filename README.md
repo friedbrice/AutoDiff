@@ -35,7 +35,7 @@ Pull requests welcome.
 
 Thanks to Branium for hosting. Thanks to the Santa Monica Haskell User Group for giving me the chance to speak.
 
-Special thanks to Phil Freeman, for noticing that the symbolic differentiation works without adding any extra code other than the `Num` instance for `Expr a`
+Special thanks to Phil Freeman, for noticing that the symbolic differentiation works automatically, without needing to repeat the code in "AutoDiff.hs".
 
 ## Further Reading
 
