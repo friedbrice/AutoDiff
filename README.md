@@ -6,7 +6,7 @@ This "README.md" and the code snippets contained in this repository are copyrigh
 
 Do not use these code snippets for anything important. Use Kmett's "ad" package, instead.
 
-Pull requests welcome.
+Pull requests welcomed.
 
 ## Tangent Line Problem: A Motivating Example
 
