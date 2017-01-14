@@ -29,7 +29,7 @@ Pull requests welcomed.
 
 ## Automatic Differentiation
 
-{ ... }
+See the talk on [YouTube][https://www.youtube.com/watch?v=q1DUKEOUoxA&t=1870s] (I hate listening to recordings of my voice -\_-).
 
 ## Acknowledgments
 
